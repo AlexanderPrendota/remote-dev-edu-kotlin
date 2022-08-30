@@ -1,3 +1,4 @@
+
 schemaVersion: 2.2.0
 attributes:
   space:
@@ -5,3 +6,6 @@ attributes:
       # (Required) IDE type: Idea, WebStorm, PyCharm,
       # RubyMine, CLion, Fleet, GoLand, PhpStorm, Rider
       type: Idea
+      
+      # regular, large, xlarge
+    instanceType: xlarge
