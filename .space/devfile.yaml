@@ -9,4 +9,4 @@ attributes:
       # regular, large, xlarge
     instanceType: xlarge
     warmup:
-      script: gradle build -x test
+      script: ./gradlew build -x test
